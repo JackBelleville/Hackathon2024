@@ -1,2 +1,4 @@
+#Farm Game
 
-Test commit
+##Mentor: Matthew Marlow
+- Helped us navigate git and resolve github related issues
